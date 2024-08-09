@@ -1,0 +1,18 @@
+{
+  "name": "multibot-module",
+  "version": "1.5.0",
+  "description": "Modulo echo por MultiBot-OFC, adaptado para imagenes aleatorias, videos, apks, y cosas rpg, se agregaran mas cosas en proximas actualizaciones.",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+
+  "author": "MultiBot-OFC",
+  "license": "MIT",
+
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "axios": "^0.24.0"
+  }
+}
