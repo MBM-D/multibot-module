@@ -1,6 +1,6 @@
 {
   "name": "multibot-module",
-  "version": "1.5.0",
+  "version": "1.2.0",
   "description": "Modulo echo por MultiBot-OFC, adaptado para imagenes aleatorias, videos, apks, y cosas rpg, se agregaran mas cosas en proximas actualizaciones.",
   "main": "index.js",
   
